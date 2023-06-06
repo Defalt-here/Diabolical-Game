@@ -30,6 +30,8 @@ nerd out about C in general and make my day, Feel free to ask!
 --------------------------End of Debrief---------------------------------
 
 Thank You 
+
 Aditya Ranjan
+
 (P.S. Take your time to go through the game, but consider that I will be waiting for your reviews, to make it
 better.)
