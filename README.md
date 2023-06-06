@@ -1,5 +1,6 @@
 # Diabolical-Game
 A text based thriller written in C played completely on command prompt console
+
 Welcome to Diabolical Beta(V1.3)
 (Trigger warning: Flashing lights)
 
